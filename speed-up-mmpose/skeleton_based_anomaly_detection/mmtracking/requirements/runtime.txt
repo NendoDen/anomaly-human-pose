@@ -1,9 +1,0 @@
-dotty_dict
-matplotlib
-mmcls
-mmpycocotools
-motmetrics
-numpy
-seaborn
-six
-terminaltables
