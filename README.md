@@ -1,4 +1,4 @@
-# Quick Descripton
+# BRIEF Descripton
 
 A pipeline to detect anomaly action in a video.
 
