@@ -29,4 +29,5 @@ The current tracking model is used in order to reduce the tracking time. In the 
 The current issues are:
 
 1/ The tracking model cannot detect abnormal skeleton (when people fall down or jump).
+
 2/ The anomaly detection part is not fully handled.
