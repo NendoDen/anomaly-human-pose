@@ -1,5 +1,6 @@
 # BRIEF Descripton
 A pipeline to detect anomaly action in a video.
+
 *** Most of the modifications are made on main.py, skeleton_detect.py, dataset.py in speed-up-mmpose/.
 
 ## MOT MODEL FOR HUMAN TRACKING
